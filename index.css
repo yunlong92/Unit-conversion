@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+input {
+  border: solid #b295ff 1px;
+  border-radius: 5px;
+  text-align: center;
+  color: white;
+  height: 80px;
+  width: 110px;
+  background: #6943fe;
+  font-size: 60px;
+}
+
+::placeholder {
+  color: white;
+  font-size: 60px;
+}
+
+button {
+  background: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  height: 40px;
+  width: 110px;
+  margin-top: 30px;
+  color: #3d3d3d;
+}
+.hero {
+  background: #6943fe;
+  color: white;
+  padding: 30px;
+}
+
+.main {
+  background: #f4f4f4;
+  padding: 30px;
+}
+
+.section {
+  background: white;
+  height: 100px;
+  width: 500px;
+  margin: auto;
+}
+
+h3 {
+  padding-top: 20px;
+}
